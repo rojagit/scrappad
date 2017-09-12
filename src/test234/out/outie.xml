@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<product xsi:type="Product" locale="en_US">
+<pageid>040721100320</pageid>
+<name/>
+<reviews>
+<fullreview>
+<id>99641947</id>
+<merchant_review_id>220921768</merchant_review_id>
+<merchantuserid/>
+<status>Approved</status>
+<createddate>2017-06-12</createddate>
+<helpfulvotes>0</helpfulvotes>
+<nothelpfulvotes>0</nothelpfulvotes>
+<source>web</source>
+<confirmstatusgroup>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<headline>Shoes make the outfit!</headline>
+<overallrating>4</overallrating>
+<bottom_line>recommended</bottom_line>
+<comments>My purchases have worked out well. The shoes are stylish and comfortable. I like them so much that I brought two pair in different colors!</comments>
+<nickname>Jim</nickname>
+<location>San Jose</location>
+<extra_info_list>
+<extra_info>
+<key>SL_FIRST_REVIEW</key>
+<value>true</value>
+</extra_info>
+<extra_info>
+<key>collected</key>
+<value>User Submitted</value>
+</extra_info>
+<extra_info>
+<key>WriteAReviewSessionId</key>
+<value>a522dadc-947a-4b59-be81-192eb0687fef</value>
+</extra_info>
+</extra_info_list>
+<taggroup key="width" name="Width">
+<tag isuseradded="false" count="1">Feels true to width</tag>
+</taggroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="1">Casual Wear</tag>
+<tag isuseradded="false" count="1">Travel</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="true" count="1">Comfortable</tag>
+<tag isuseradded="false" count="1">Stylish</tag>
+</taggroup>
+<taggroup key="sizing" name="Sizing">
+<tag isuseradded="false" count="1">Feels true to size</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="1">Stylish</tag>
+</taggroup>
+<taggroup key="viewonshoes" name="View On Shoes">
+<tag isuseradded="false" count="1">I'm Into Shoes</tag>
+</taggroup>
+</fullreview>
+</reviews>
+<newestreviewdate>2017-06-12</newestreviewdate>
+<oldestreviewdate>2017-06-12</oldestreviewdate>
+<averageoverallrating>4.0</averageoverallrating>
+<average_rating_decimal>4.0</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="false" count="1">Casual wear</tag>
+<tag isuseradded="false" count="1">Travel</tag>
+</taggroup>
+<taggroup key="describeyourself" name="Describe Yourself">
+<tag isuseradded="false" count="1">Stylish</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="true" count="1">Comfortable</tag>
+<tag isuseradded="false" count="1">Stylish</tag>
+</taggroup>
+<taggroup key="sizing" name="Sizing">
+<tag isuseradded="false" count="1">Feels true to size</tag>
+</taggroup>
+<taggroup key="viewonshoes" name="View On Shoes">
+<tag isuseradded="false" count="1">I'm into shoes</tag>
+</taggroup>
+<taggroup key="width" name="Width">
+<tag isuseradded="false" count="1">Feels true to width</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+<product xsi:type="Product" locale="en_US">
+<pageid>040726300701</pageid>
+<name/>
+</product>
+</products>
